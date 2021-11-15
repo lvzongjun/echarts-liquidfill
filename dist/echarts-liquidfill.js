@@ -7,7 +7,7 @@
 		exports["echarts-liquidfill"] = factory(require("echarts"));
 	else
 		root["echarts-liquidfill"] = factory(root["echarts"]);
-})(self, function(__WEBPACK_EXTERNAL_MODULE_echarts_lib_echarts__) {
+})(self = {}, function(__WEBPACK_EXTERNAL_MODULE_echarts_lib_echarts__) {
 return /******/ (() => { // webpackBootstrap
 /******/ 	"use strict";
 /******/ 	var __webpack_modules__ = ({
